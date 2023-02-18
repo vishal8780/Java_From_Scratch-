@@ -19,6 +19,7 @@ public class waysToCompairString {
         System.out.println(str1==str3); // but here reference is different in SCP
         System.out.println(str1.equals(str2));
         System.out.println(str1.equals(str3));
+        //Hello Everyone how are you today
 
     }
 
