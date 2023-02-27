@@ -6,6 +6,7 @@ public class waysToCompairString {
 
     public static void main(String[] args)
     {
+
 //        String str1="Hi Java";
 //        String str2=new String("Hi Java");
 //        System.out.println(str1==str2);
@@ -20,7 +21,7 @@ public class waysToCompairString {
         System.out.println(str1.equals(str2));
         System.out.println(str1.equals(str3));
         //Hello Everyone how are you today
-        //New check added for Github
+        //New check added for GitHub
 
 
     }
