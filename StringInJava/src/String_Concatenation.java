@@ -2,6 +2,8 @@
 // Using + plus operator
 //String.concat() method
 
+import java.util.concurrent.LinkedTransferQueue;
+
 public class String_Concatenation {
     public static void main(String[] args)
     {
@@ -31,6 +33,17 @@ public class String_Concatenation {
         System.out.println(s2);
         System.out.println(s3);
         System.out.println(s4);
+        int a[]=new int[4];
+        a[0]=10;
+        a[1]=11;
+        a[2]=12;
+        a[3]=13;
+        for (int i =0;i<=a.length;i++)
+        {
+            System.out.println(a[i]);
+        }
+
+
 
     }
 }
