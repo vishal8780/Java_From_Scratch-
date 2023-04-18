@@ -1,3 +1,4 @@
+import java.awt.*;
 import java.util.ArrayList;
 
 public class Array_List {
@@ -31,6 +32,12 @@ public class Array_List {
         // & duplicate element are allowed here
         arrayList.add(500);
         System.out.println(arrayList);
+        System.out.println(arrayList.contains(200));
+        int index=arrayList.indexOf(200);
+        System.out.println(index);
+        System.out.println(arrayList.size());
+        System.out.println("<======================================>");
+        // List is parent of arraylist class, so we can declare the ArrayList as like these ways also
 
 
 

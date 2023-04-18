@@ -38,6 +38,8 @@ public class Reverce_String {
           str2=str2+" ";
        }
         System.out.println(str2);
+       String str5="Wanky";
+        System.out.println(str5.toUpperCase());
 
     }
 }

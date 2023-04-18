@@ -3,5 +3,6 @@ public class lenght_Lenght {
         int arr[]={3,4,5,6};
         String str="shekhar";
         System.out.println(str.length());
+        System.out.println(str.charAt(4));
     }
 }
